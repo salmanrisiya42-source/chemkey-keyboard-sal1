@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chemistry Keyboard – Pro</string>
+    <string name="ime_service_name">Chemistry Keyboard – Pro</string>
+    <string name="ime_subtype_en">Chemistry &amp; Scientific (US)</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Chemistry Keyboard – Pro",
+  "description": "Professional offline chemistry keyboard, 118-element periodic table, and visual molecular structure editor for students and educators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
